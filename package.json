@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "Kittu",
-    "start": "nodemon index.js"
+    "dev":"nodemion index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
